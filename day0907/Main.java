@@ -59,8 +59,8 @@ public class Main {
 
     // for(int i = input; i > 0; i--){
     // for (int j = 0; j < input; j++){
-    // right ++;
-    // twoDimensionalArray[right][bottom] =
+    // x ++;
+    // twoDimensionalArray[y][x] = printNum++;
     // }
     // }
     // return twoDimensionalArray;
